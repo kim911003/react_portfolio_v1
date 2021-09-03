@@ -4,7 +4,7 @@ let resumeData = {
     "role": "성장하는 개발자 김형준입니다. ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "저는 프론트와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌,  최적화된 사용자 경험을 제공하는 개발자가 되겠습니다.",
+    "roleDescription": "저는 프론트와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌,  최적화된 사용자 경험을 제공하는 개발자가 되고싶습니다",
     "socialLinks":[
         {
           "name":"linkedin",
