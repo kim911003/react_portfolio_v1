@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "KimHyungJoon",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "성장하는 개발자 김형준입니다. ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "저는 프론트와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌,  최적화된 사용자 경험을 제공하는 개발자가 되겠습니다.",
     "socialLinks":[
         {
           "name":"linkedin",
