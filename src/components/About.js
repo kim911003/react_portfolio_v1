@@ -27,13 +27,13 @@ export default class About extends Component {
 
                   <h2>Contact Details</h2>
                   <p className="address">
-       						<span>{resumeData.name}</span>
+       						<span>Phone : {resumeData.phone}</span>
                      <br></br>
        						   <span>
-                     {resumeData.address}
+                     Addr : {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span>Email : {resumeData.email}</span>
        					   </p>
                   </div>
                </div>
