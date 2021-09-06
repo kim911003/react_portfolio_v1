@@ -1,5 +1,6 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    //"imagebaseurl":"https://rbhatia46.github.io/",
+	"imagebaseurl":"https://kim911003.github.io/",
     "name": "KimHyungJoon",
     "role": "성장하는 개발자 김형준입니다",
     "linkedinId":"Your LinkedIn Id",
@@ -32,7 +33,7 @@ let resumeData = {
         "UniversityName":"KOSTA EDU - 한국소프트웨어기술진흥협회",
         "specialization":"교육일자",
         "MonthOfPassing":"September",
-        "YearOfPassing":"2019 - January 2020",
+        "YearOfPassing":"2018 - January 2019",
         "Achievements":"Java & Web Programming Education"
       },
       {
@@ -40,23 +41,23 @@ let resumeData = {
         "specialization":"졸업일자",
         "MonthOfPassing":"February",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Database, C language basics, Algorithm Training"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"(주)우림인포텍",
+        "specialization":"업무경력",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2019 - January 2020",
+        "Achievements":"농정원 시스템 유지보수, 도매시장 웹 개발 및 유지보수"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
+        "specialization":"업무경력",
+        "MonthOfLeaving":"January",
+        "YearOfLeaving":"2020 - Now",
+        "Achievements":"QR인증시스템 개발 및 유지보수, 출퇴근 시스템 유지보수, 자사 광고 플랫폼 개발"
       }
     ],
     "skillsDescription":"Your skills here",
