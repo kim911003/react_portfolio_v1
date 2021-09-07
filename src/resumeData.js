@@ -2,12 +2,13 @@ let resumeData = {
     //"imagebaseurl":"https://rbhatia46.github.io/",
 	"imagebaseurl":"https://kim911003.github.io/",
     "name": "KimHyungJoon",
-    "role": "성장하는 개발자 김형준입니다",
+    "role": "겉으로만 화려한 개발자가 아닌, 최적화된 시스템을 안정적으로 사용자에게 제공하고 회사와 함께 나아갈 수 있는 인재가 되겠습니다.",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
 	"email": "joon1077@naver.com",
 	"phone": "010-9291-4151",
-    "roleDescription": "저는 프론트엔드와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌, 최적화된 사용자 경험을 제공하고 회사와 함께 성장할 수 있는 인재가 되겠습니다.",
+	"roleDescription" : "",
+   // "roleDescription": "저는 프론트엔드와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌, 최적화된 시스템을 안정적으로 사용자에게 제공하고 회사와 함께 성장할 수 있는 인재가 되겠습니다.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -50,14 +51,17 @@ let resumeData = {
         "specialization":"업무경력",
         "MonthOfLeaving":"May",
         "YearOfLeaving":"2019 - January 2020",
-        "Achievements":"농정원 시스템 유지보수, 도매시장 웹 개발 및 유지보수"
+        "Achievements1":"농정원 시스템 유지보수",
+		"Achievements1":"도매시장 웹 개발 및 유지보수"
       },
       {
         "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
         "specialization":"업무경력",
         "MonthOfLeaving":"January",
         "YearOfLeaving":"2020 - Now",
-        "Achievements":"QR인증시스템 개발 및 유지보수, 출퇴근 시스템 유지보수, 자사 광고 플랫폼 개발"
+        "Achievements1":" - QR인증시스템 개발 및 유지보수,, 자사 광고 플랫폼 개발",
+		"Achievements2": " - 출퇴근 시스템 유지보수",
+		"Achievements3": ""
       }
     ],
     "skillsDescription":"Your skills here",
