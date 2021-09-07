@@ -4,9 +4,7 @@ export default  class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-
          <div className="row education">
-
             <div className="three columns header-col">
                <h1><span>Education</span></h1>
             </div>
@@ -47,7 +45,11 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
-                          {item.Achievements}
+                          {item.Achievements}<br></br>
+					      {item.SecondsAchievements}<br></br>
+							  {item.ThridAchievements != null  &&
+								item.ThridAchievements
+							  }
                           </p>
                        </div>
 
@@ -79,7 +81,7 @@ export default  class Resume extends Component {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
                       <li>
-                      <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
+                      <span className={`bar-expand ${item.skillname.toLowerCase()}`}> 
                       </span><em>{item.skillname}</em>
                       </li>
                     )
