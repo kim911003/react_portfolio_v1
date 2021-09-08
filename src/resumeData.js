@@ -35,14 +35,17 @@ let resumeData = {
         "specialization":"교육일자",
         "MonthOfPassing":"September",
         "YearOfPassing":"2018 - January 2019",
-        "Achievements":"Java & Web Programming Education"
+        "Achievements":" - Java & Web Programming Education"
       },
       {
         "UniversityName":"가톨릭 관동사범대학교 컴퓨터교육과",
         "specialization":"졸업일자",
         "MonthOfPassing":"February",
         "YearOfPassing":"2020",
-        "Achievements":"Database, C language basics, Algorithm Training"
+        "Achievements":" - Database",
+		"SecondsAchievements":" - C language basics",
+		"ThridAchievements":" - Algorithm Training"
+		
       }
     ],
     "work":[
@@ -60,7 +63,7 @@ let resumeData = {
         "MonthOfLeaving":"January",
         "YearOfLeaving":"2020 - Now",
         "Achievements":" - QR인증시스템 개발 및 유지보수",
-		"SecondsAchievements":" - 출퇴근 시스템 유지보수",
+		"SecondsAchievements":" - 자사 출ㆍ퇴근 시스템 유지보수",
 		"ThridAchievements": " - 자사 광고 플랫폼 개발"
       }
     ],
