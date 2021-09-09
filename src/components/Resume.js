@@ -20,9 +20,11 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfPassing} {item.YearOfPassing}</em></p>
                           <p>
-							  {item.Achievements}<br></br>
-							  {item.SecondsAchievements}<br></br>
-							  {item.ThridAchievements != null  &&item.ThridAchievement}
+							  {item.Achievements.split('\n').map(line =>{
+								  return (
+									<span>{line}<br /></span>
+								  );
+							  })}
                           </p>
                        </div>
                     </div>
@@ -47,9 +49,9 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
-							  {item.Achievements}<br></br>
-							  {item.SecondsAchievements}<br></br>
-							  {item.ThridAchievements != null  &&item.ThridAchievements}
+							  {item.Achievements.split('\n').map(line =>{
+								  return (<span>{line}<br /></span>);
+							  })}
                           </p>
                        </div>
 

@@ -42,10 +42,7 @@ let resumeData = {
         "specialization":"졸업일자",
         "MonthOfPassing":"February",
         "YearOfPassing":"2020",
-        "Achievements":" - Database",
-		"SecondsAchievements":" - C language basics",
-		"ThridAchievements":" - Algorithm Training"
-		
+	    "Achievements": "- Database\n - C language basics\n - Algorithm Training"
       }
     ],
     "work":[
@@ -54,17 +51,14 @@ let resumeData = {
         "specialization":"업무경력",
         "MonthOfLeaving":"May",
         "YearOfLeaving":"2019 - January 2020",
-        "Achievements":" - 농정원 시스템 유지보수",
-		"SecondsAchievements":" - 도매시장 웹 개발 및 유지보수"
+        "Achievements":" - 농정원 시스템 유지보수\n - 도매시장 웹 개발 및 유지보수"
       },
       {
         "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
         "specialization":"업무경력",
         "MonthOfLeaving":"January",
         "YearOfLeaving":"2020 - Now",
-        "Achievements":" - QR인증시스템 개발 및 유지보수",
-		"SecondsAchievements":" - 자사 출ㆍ퇴근 시스템 유지보수",
-		"ThridAchievements": " - 자사 광고 플랫폼 개발"
+        "Achievements":" - QR인증시스템 개발 및 유지보수\n - 자사 출ㆍ퇴근 시스템 유지보수\n  - 자사 광고 플랫폼 개발"
       }
     ],
     "skillsDescription":"Your skills here",
