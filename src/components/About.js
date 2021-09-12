@@ -4,6 +4,7 @@ export default class About extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="about">
+	  
          <div className="row">
 
             <div className="three columns">
@@ -13,12 +14,58 @@ export default class About extends Component {
             </div>
 
             <div className="nine columns main-col">
-
-               <h2>About Me</h2>
+			<h2>Certificate</h2>
                <p>
-               {
-                 resumeData.aboutme
-               }
+			   {resumeData.cert && resumeData.cert.map(
+				(item) =>{
+					return(
+					<div>
+					{item.acquisition}<br/>
+						{item.readyAcquisition1}<br/>
+						{item.readyAcquisition2}
+					</div>
+					)
+				}
+			   )}
+               </p>
+               <h2>I Can Do It!</h2>
+               <p>
+			   {resumeData.aboutme && resumeData.aboutme.map(
+				(item) =>{
+						return(
+							<div>
+							<strong> - Development</strong><br/>
+								{item.firstAbout.split('\n').map((line) => {
+									return (
+										<span>{line}<br/></span>
+									)
+								})}
+								<br/>
+							<strong> - For Users</strong><br/>
+							{item.twoAbout.split('\n').map((line) => {
+									return (
+										<span>{line}<br/></span>
+									)
+								})}
+								<br/>
+						    <strong> - Skills</strong><br/>
+							{item.threeAbout.split('\n').map((line) => {
+									return (
+										<span>{line}<br/></span>
+									)
+								})}
+								<br/>
+						    <strong> - Communication</strong><br/>
+							{item.fourAbout.split('\n').map((line) => {
+									return (
+										<span>{line}<br/></span>
+									)
+								})}
+							</div>
+						)
+				}
+			   )}
+               
                </p>
 
                <div className="row">
