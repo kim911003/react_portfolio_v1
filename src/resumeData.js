@@ -1,14 +1,13 @@
 let resumeData = {
 	"imagebaseurl":"https://kim911003.github.io/",
     "name": "KimHyungJoon",
-	"webPortfolio":"웹 개발자 포트폴리오",
-    "role": "3년차 웹 개발자 김형준입니다. 겉으로만 화려한 개발자가 아닌, 최적화된 시스템을",
+	"webPortfolio":"Developer Portfolio",
+    "role": "6년차 웹 개발자 김형준",
     "linkedinId":"Thanks for - you",
     "skypeid": "Your skypeid",
 	"email": "joon1077@naver.com",
 	"phone": "010-9291-4151",
-	"roleDescription" : " 안정적으로 사용자에게 제공하고 회사와 함께 나아갈 수 있는 인재가 되겠습니다.",
-   // "roleDescription": "저는 프론트엔드와 백엔드 두 가지 개발이 가능한 풀스택 개발자입니다. 겉으로만 화려한 개발자가 아닌, 최적화된 시스템을 안정적으로 사용자에게 제공하고 회사와 함께 성장할 수 있는 인재가 되겠습니다.",
+	"roleDescription" : " 사용자에게 안정적인 서비스를 제공하고 회사와 함께 나아갈 수 있는 인재",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -26,17 +25,14 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    //"aboutme":"저는 사범대학교 컴퓨터교육과를 졸업하고, 취미로 즐기던 프로그래밍을 전문적으로 다루기 시작했습니다. 국비 지원을 통해 처음 프로그래밍을 배우고, 개인 프로젝트를 진행하면서 실무 능력을 끌어올린 뒤 진행하는 여러 프로젝트에 참여를 할 수 있었습니다. 처음부터 잘하진 못하였지만, 누구보다도 스스로가 부족한 점이 무엇인지 알기에 빠르게 캐치하여 팀원들과 협업할 수 있는 개발자가 되었습니다. 또한, 저는 신기술에 대한 거부감이 없고 기업에서 원하는 기술을 빠르게 습득하여 활용할 수 있습니다. 현재 기업에서 진행하는 다양한 프로젝트에 참여해 개발과 유지보수를 해나가고 있으며, 개인적인 시간에는 React.js와 Node.js에 대한 기술에 대해 알아가고 있습니다.",
     "aboutme":[{
-		"firstAbout":"Java, Javascript, Jquery를 기반으로 최적화된 코드를 작성합니다. \n유지보수를 고려한 코드 작성, 협업에서 원하는 기술을 단기간안에 접근할 수 있도록 합니다.",
-		"twoAbout":"사용자입장에서 생각하는 것을 좋아합니다.\n 여러 직군과 함께 사용자에게 편리한 기능을 구현하는데 관심이 많습니다.",
-		"threeAbout":"새로운 기술,언어에 대한 거부감이 없으며 계속 공부를 하고 있습니다. \n React, Node, Git등 실무에서 사용할 수 있게 적극적으로 개인프로젝트를 진행하고있습니다.",
-		"fourAbout":"항상 다른 직군, 팀원과 가깝게 일하려고 노력합니다. \n 소통을 통해 의도를 이해하고 좋은 결과물을 만듭니다."
+		"firstAbout":"- Java, Javascript, Jquery,Sql 기반으로 최적화된 코드를 작성 \n- 협업에서 원하는 기술을 단 기간안에 접근",
+		"twoAbout":"- 사용자 편의성에 대한 생각\n- 여러 직군과 함께 사용자에게 편리한 기능을 구현하는데 관심",
+		"threeAbout":"- 새로운 기술에 대한 관심 \n - React, Vue, Git등 실무에서 사용할 수 있도록 개인업무 진행",
+		"fourAbout":"- 다른 직군, 팀원과 가깝게 일하려고 노력 \n- 소통을 통해 의도를 이해"
 	}],
 	"cert":[{
-		"acquisition" : " - 정보처리기사(19203021568U - 2019.11 취득완료)",
-		"readyAcquisition1" : "- 정보처리보안기사(2022 - 준비)",
-		"readyAcquisition2" : "- 리눅스마스터(2022 - 준비)"
+		"acquisition" : " - 정보처리기사(19203021568U - 2019.11 취득완료)"
 	}],
 	"address":"경기도 구리시 수택동",
     "website":"https://kim911003.github.io",
@@ -60,15 +56,15 @@ let resumeData = {
       {
         "CompanyName":"(주)우림인포텍",
         "specialization":"업무경력",
-        "MonthOfLeaving":"May",
-        "YearOfLeaving":"2019 - January 2020",
+        "MonthOfLeaving":"05.",
+        "YearOfLeaving":"2019 - 01. 2020",
         "Achievements":" - 농정원 시스템 유지보수\n - 도매시장 웹 개발 및 유지보수"
       },
       {
         "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
         "specialization":"업무경력",
-        "MonthOfLeaving":"January",
-        "YearOfLeaving":"2020 - Now",
+        "MonthOfLeaving":"01.",
+        "YearOfLeaving":"2020 - 2022.12",
         "Achievements":" - QR인증시스템 개발 및 유지보수\n - 자사 출ㆍ퇴근 시스템 유지보수\n  -  광고 자동화 시스템 개발 및 유지보수"
       }
     ],
@@ -84,16 +80,28 @@ let resumeData = {
 		"skillname":"jquery "
 	  },
 	  {
-		"skillname":"database"
+		"skillname":"oracle"
+	  },
+	 {
+		"skillname":"mysql"
 	  },
 	  {
-        "skillname":"Reactjs"
+		"skillname":"mssql"
+	  },
+	  {
+        "skillname":"react"
       },
 	  {
-		  "skillname":"Nodejs"
+		  "skillname":"vue"
 	  }
     ],
     "portfolio":[
+	 {
+        "name":"MLB",
+        "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "imgurl":"images/mlb2.jpg",
+		"locationurl":"https://aqr.kr/home/index"
+      },
       {
         "name":"Aceqr 정품인증",
         "description":" - QR정품 유지보수 \n - 팝업인증 개발, 인증이력 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Mysql\n - Eclipse SVN\n - Git, GitLab",
