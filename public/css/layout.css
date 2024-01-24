@@ -352,38 +352,43 @@ ul#nav li.current a { color: #F06000; }
 }
 .javascript {
 	width: 70%;
-  	-moz-animation: javascript 2s ease;
-  	-webkit-animation: javascript 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .jquery {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .oracle{
   	width: 60%;
-  	-moz-animation: sql 2s ease;
-  	-webkit-animation: sql 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .mysql{
   	width: 60%;
-  	-moz-animation: sql 2s ease;
-  	-webkit-animation: sql 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .mssql{
   	width: 60%;
-  	-moz-animation: sql 2s ease;
-  	-webkit-animation: sql 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.jpa {
+   width: 15%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
 }
 .react {
   	width: 10%;
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .vue {
   	width: 25%;
-  	-moz-animation: nodejs 2s ease;
-  	-webkit-animation: nodejs 2s ease;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 
 @-moz-keyframes photoshop {

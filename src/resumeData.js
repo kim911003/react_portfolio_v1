@@ -2,12 +2,12 @@ let resumeData = {
 	"imagebaseurl":"https://kim911003.github.io/",
     "name": "KimHyungJoon",
 	"webPortfolio":"Developer Portfolio",
-    "role": "6년차 웹 개발자 김형준",
+    "role": "사용자에게 안정적인 서비스를 제공하고",
     "linkedinId":"Thanks for - you",
     "skypeid": "Your skypeid",
 	"email": "joon1077@naver.com",
 	"phone": "010-9291-4151",
-	"roleDescription" : " 사용자에게 안정적인 서비스를 제공하고 회사와 함께 나아갈 수 있는 인재",
+	"roleDescription" : " 회사와 함께 나아갈 수 있는 6년차 웹 개발자",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -53,19 +53,26 @@ let resumeData = {
       }
     ],
     "work":[
+		{
+        "CompanyName":"(주)웨이브",
+        "specialization":"업무경력",
+        "MonthOfLeaving":"12.",
+        "YearOfLeaving":"2022 - 2024.01",
+        "Achievements":" - Pulmuone 통계관리 적립금내역 개발  \n - Pulmuone 운영페이지 개발 및 유지보수 \n - Pulmuone 관리자 페이지 개발 및 유지보수 \n- MLB,Discovery 이벤트/프로모션 개발 및 유지보수 \n - MLB,Discovery 상품 개발 및 유지보수 \n - MLB,Discovery 베스트상품 페이지 개발 \n - MLB,Discovery 사은품 제공 개발 \n - Duvetica 상품 유지보수 및 개발" 
+      },
+		{
+        "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
+        "specialization":"업무경력",
+        "MonthOfLeaving":"01.",
+        "YearOfLeaving":"2020 - 2022.12",
+        "Achievements":" - QR인증시스템 개발 및 유지보수\n - 자사 출ㆍ퇴근 시스템 유지보수\n  -  광고 자동화 시스템 개발 및 유지보수"
+      },
       {
         "CompanyName":"(주)우림인포텍",
         "specialization":"업무경력",
         "MonthOfLeaving":"05.",
         "YearOfLeaving":"2019 - 01. 2020",
         "Achievements":" - 농정원 시스템 유지보수\n - 도매시장 웹 개발 및 유지보수"
-      },
-      {
-        "CompanyName":"(주)B4B & (주)큐브릭코퍼레이션",
-        "specialization":"업무경력",
-        "MonthOfLeaving":"01.",
-        "YearOfLeaving":"2020 - 2022.12",
-        "Achievements":" - QR인증시스템 개발 및 유지보수\n - 자사 출ㆍ퇴근 시스템 유지보수\n  -  광고 자동화 시스템 개발 및 유지보수"
       }
     ],
     "skillsDescription":"My Skills Here",
@@ -88,6 +95,9 @@ let resumeData = {
 	  {
 		"skillname":"mssql"
 	  },
+		  {
+		"skillname":"jpa"
+	  },
 	  {
         "skillname":"react"
       },
@@ -97,10 +107,28 @@ let resumeData = {
     ],
     "portfolio":[
 	 {
+        "name":"Pulmuone",
+        "description":" - 운영페이지 개발 및 유지보수 \n - 관리자 페이지 개발 및 유지보수 \n - 적립금 내역 개발 \n - Java, Javascript, Jquery, Vue.js \n - SpringBoot \n - Mysql \n - Intellij \n - Git",
+        "imgurl":"images/pul.jpg",
+		"locationurl":"https://shop.pulmuone.co.kr/"
+      },
+	 {
+        "name":"Discovery",
+        "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "imgurl":"images/discovery.jpg",
+		"locationurl":"https://www.discovery-expedition.com/"
+      },
+	 {
         "name":"MLB",
         "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"images/mlb2.jpg",
-		"locationurl":"https://aqr.kr/home/index"
+		"locationurl":"https://www.mlb-korea.com/main/mall/view"
+      },
+	  {
+        "name":"Duvetica",
+        "description":" - 상품페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "imgurl":"images/duvetica.jpg",
+		"locationurl":"https://www.duvetica.co.kr/"
       },
       {
         "name":"Aceqr 정품인증",
