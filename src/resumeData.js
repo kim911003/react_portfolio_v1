@@ -109,61 +109,61 @@ let resumeData = {
 	 {
         "name":"Pulmuone",
         "description":" - 운영페이지 개발 및 유지보수 \n - 관리자 페이지 개발 및 유지보수 \n - 적립금 내역 개발 \n - Java, Javascript, Jquery, Vue.js \n - SpringBoot \n - Mysql \n - Intellij \n - Git",
-        "imgurl":"images/pul.jpg",
+        "imgurl":"./images/pul.jpg",
 		"locationurl":"https://shop.pulmuone.co.kr/"
       },
 	 {
         "name":"Discovery",
         "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
-        "imgurl":"images/discovery.jpg",
+        "imgurl":"./images/discovery.jpg",
 		"locationurl":"https://www.discovery-expedition.com/"
       },
 	 {
         "name":"MLB",
         "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
-        "imgurl":"images/mlb2.jpg",
+        "imgurl":"./images/mlb2.jpg",
 		"locationurl":"https://www.mlb-korea.com/main/mall/view"
       },
 	  {
         "name":"Duvetica",
         "description":" - 상품페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
-        "imgurl":"images/duvetica.jpg",
+        "imgurl":"./images/duvetica.jpg",
 		"locationurl":"https://www.duvetica.co.kr/"
       },
       {
         "name":"Aceqr 정품인증",
         "description":" - QR정품 유지보수 \n - 팝업인증 개발, 인증이력 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Mysql\n - Eclipse SVN\n - Git, GitLab",
-        "imgurl":"images/b4b.jpg",
+        "imgurl":"./images/b4b.jpg",
 		"locationurl":"https://aqr.kr/home/index"
       },
       {
         "name":"Fiction-A",
         "description":" - 광고 자동화시스템 개발\n - 보고서 자동화시스템 개발\n - Java, JavaScript, Jquery\n - SpringBoot \n - RestFulApi\n - Mysql\n - Git, GitLab",  
-        "imgurl":"images/fiction_a.jpg",
+        "imgurl":"./images/fiction_a.jpg",
 		"locationurl":"https://fiction-a.com/home/main"
       },
       {
         "name":"It-deal ( 서비스 종료 )",
         "description":"- 견적지원 시스템 개발 \n - 견적등록 개발 \n - 결제API 유지보수\n- SpringFramework \n - Mysql \n - Git, GitLab",
-        "imgurl":"images/itdeal.jpg",
+        "imgurl":"./images/itdeal.jpg",
 		"locationurl":"https://it-deal.co.kr/main"
       },
 	 {
         "name":"부산농수산물도매시장",
         "description":"- 웹페이지 개발 및 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework \n - Mssql",
-        "imgurl":"images/busan.jpg",
+        "imgurl":"./images/busan.jpg",
 		"locationurl":"https://www.busan.go.kr/market/index"
       },
 	  {
         "name":"원주시농수산물도매시장",
        "description":"- 웹페이지 개발 및 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework \n - Mssql",
-        "imgurl":"images/woonju.jpg",
+        "imgurl":"./images/woonju.jpg",
 		"locationurl":"https://www.wonju.go.kr/market/index.do"
       },
 	  {
         "name":"EPIS - 농정원",
         "description":" - 웹 페이지 개발 및 유지보수 \n - Java, Javascript, Jquery \n - eGovFramework \n - Mssql \n - Git, GitHub",
-        "imgurl":"images/eps.jpg",
+        "imgurl":"./images/eps.jpg",
 		"locationurl":"https://www.epis.or.kr/"
       }
     ],
