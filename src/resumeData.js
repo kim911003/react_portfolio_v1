@@ -108,25 +108,25 @@ let resumeData = {
     "portfolio":[
 	 {
         "name":"Pulmuone",
-        "description":" - 운영페이지 개발 및 유지보수 \n - 관리자 페이지 개발 및 유지보수 \n - 적립금 내역 개발 \n - Java, Javascript, Jquery, Vue.js \n - SpringBoot \n - Mysql \n - Intellij \n - Git",
+        "description":" - #풀무원 페이지 개발 \n - #풀무원 리뉴얼 프로젝트 개발 \n - #풀무원 관리자 페이지 개발 \n - Java, Javascript, Jquery, Vue.js \n - SpringBoot \n - Mysql \n - Intellij \n - Git",
         "imgurl":"./images/pul.jpg",
 		"locationurl":"https://shop.pulmuone.co.kr/"
       },
 	 {
         "name":"Discovery",
-        "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "description":" - 이벤트/프로모션 담당 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"./images/discovery.jpg",
 		"locationurl":"https://www.discovery-expedition.com/"
       },
 	 {
         "name":"MLB",
-        "description":" - 이벤트/프로모션 유지보수 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "description":" - 이벤트/프로모션 담당 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"./images/mlb2.jpg",
 		"locationurl":"https://www.mlb-korea.com/main/mall/view"
       },
 	  {
         "name":"Duvetica",
-        "description":" - 상품페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "description":" - 상품 담당 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"./images/duvetica.jpg",
 		"locationurl":"https://www.duvetica.co.kr/"
       },
@@ -138,7 +138,7 @@ let resumeData = {
       },
       {
         "name":"Fiction-A",
-        "description":" - 광고 자동화시스템 개발\n - 보고서 자동화시스템 개발\n - Java, JavaScript, Jquery\n - SpringBoot \n - RestFulApi\n - Mysql\n - Git, GitLab",  
+        "description":" - 픽션A 광고자동화 프로젝트 개발 \n - 픽션A 광고 자동화시스템 개발\n - Java, JavaScript, Jquery\n - SpringBoot \n - RestFulApi\n - Mysql\n - Git, GitLab",  
         "imgurl":"./images/fiction_a.jpg",
 		"locationurl":"https://fiction-a.com/home/main"
       },
