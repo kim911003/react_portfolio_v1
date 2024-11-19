@@ -2,7 +2,7 @@
   "name": "kimhyungjoon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kim911003.github.io/react_portfolio_v1",
+  "homepage": "https://kim911003.github.io/react_portfolio_v1",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
