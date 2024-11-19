@@ -114,13 +114,13 @@ let resumeData = {
       },
 	 {
         "name":"Discovery",
-        "description":" - 이벤트/프로모션 담당 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "description":"- 상품상세화면 개발 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 기능 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"./images/discovery.jpg",
 		"locationurl":"https://www.discovery-expedition.com/"
       },
 	 {
         "name":"MLB",
-        "description":" - 이벤트/프로모션 담당 \n - 상품 유지보수 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 페이지 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
+        "description":"- 상품상세화면 개발 \n - 사은품 제공기능 개발 \n - PC / MB 베스트상품 기능 개발\n - 관리자페이지 유지보수 \n - Java, Javascript, Jquery \n - SpringFramework\n - Oracle \n - Mysql \n - Eclipse \n - Git",
         "imgurl":"./images/mlb2.jpg",
 		"locationurl":"https://www.mlb-korea.com/main/mall/view"
       },
