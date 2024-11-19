@@ -137,7 +137,7 @@ let resumeData = {
 		"locationurl":"https://aqr.kr/home/index"
       },
       {
-        "name":"Fiction-A",
+        "name":"Fiction-A ( 서비스 종료 )",
         "description":" - 픽션A 광고자동화 프로젝트 진행 \n - 픽션A 광고 자동화시스템 개발\n - Java, JavaScript, Jquery\n - SpringBoot \n - RestFulApi\n - Mysql\n - Git, GitLab",  
         "imgurl":"./images/fiction_a.jpg",
 		"locationurl":"https://fiction-a.com/home/main"
